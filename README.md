@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I’m Ishamuddin Afreed a data enthusiast passionate about turning raw data into actionable insights.<br>💡 Skilled in Python, SQL, Excel, Power BI, and Data Cleaning  using NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.<br>📊  I’ve built projects involving data cleaning, analysis, and visualization using NumPy, Pandas, Matplotlib, and Seaborn, as well as business intelligence dashboards in Power BI.<br>🚀 Currently seeking opportunities to apply my skills as a Data Analyst and contribute to data-driven decision-making.
+👋 Hi, I’m Ishamuddin Afreed — a data enthusiast passionate about turning raw data into actionable insights.<br>
+💡 Skilled in Python, SQL, Excel, Power BI, and Data Cleaning using NumPy, Pandas, Matplotlib, and Seaborn for data analysis and visualization.<br>
+📊 I’ve built projects involving data cleaning, analysis, and visualization, as well as business intelligence dashboards in Power BI.<br>
+🚀 I’m eager to apply my analytical skills, work on real-world data, and contribute to meaningful, data-driven solutions while continuously growing as a Data Analyst.
 
 
 ## 🌐 Socials:
